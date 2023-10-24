@@ -17,8 +17,8 @@
     // email configuration
     $smtpHost = "smtp.gmail.com";
     $smtpPort = 587;
-    $smtpUsername = "philemonfaith@gmail.com";
-    $smtpPassword = "xzjhtkcgtljkfvwe";
+    $smtpUsername = "";
+    $smtpPassword = "";
     
 
     // connection to the database
